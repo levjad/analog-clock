@@ -4,12 +4,10 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f0f0f0;
-    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #6B73FF 0%, #000DFF 100%);
 }
 
 canvas {
-    border: 5px solid #333;
     border-radius: 50%;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 15px 10px rgba(0, 0, 0, 0.2);
 }
